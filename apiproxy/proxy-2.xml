@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="7" name="proxy-2">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1435791371449</CreatedAt>
+    <CreatedBy>david.attid@gmail.com</CreatedBy>
+    <Description>U999395 git revision unknown L7D2F1N12 ::This is a test to test the apigee-enterprise plugin #1</Description>
+    <DisplayName>proxy-2</DisplayName>
+    <LastModifiedAt>1435791371449</LastModifiedAt>
+    <LastModifiedBy>david.attid@gmail.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>node://hello-world.js</Resource>
+    </Resources>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>true</validate>
+</APIProxy>
